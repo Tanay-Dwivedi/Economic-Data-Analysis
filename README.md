@@ -9,7 +9,7 @@ The code addresses the problem of analyzing and visualizing economic indicators,
 
 ## Identify the data
 
-The code utilizes data from the FRED API to analyze key economic indicators such as the S&P 500 index, national unemployment rate, and state-level unemployment rates, aiming to identify trends and disparities across different states in the United States. Additionally, it attempts to incorporate labor force participation rate data for further analysis, but this aspect requires debugging.
+The code utilizes data from the [FRED API](https://fred.stlouisfed.org/docs/api/fred) to analyze key economic indicators such as the S&P 500 index, national unemployment rate, and state-level unemployment rates, aiming to identify trends and disparities across different states in the United States. Additionally, it attempts to incorporate labor force participation rate data for further analysis, but this aspect requires debugging.
 
 -----
 
